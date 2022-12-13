@@ -1,0 +1,35 @@
+.heading{
+    text-align: center;
+
+    border: 2px solid black;
+}
+.h1{ 
+    background-color: blue;
+    padding: 20px;
+}
+.h2{
+    background-color: blueviolet;
+    padding: 30px;
+}
+.h3{
+    background-color: blanchedalmond;
+    padding: 50px;
+}
+.p2{
+    background-color: brown;
+    border: 20px;
+    text-align: center;
+}
+/* .para{
+    border: 5px solid black;
+    padding: 15px;
+} */
+
+
+p{
+    border: 5px solid black;
+    padding: 20px;
+}
+.p2{
+    
+}
